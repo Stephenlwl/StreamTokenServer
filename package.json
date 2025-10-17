@@ -8,10 +8,14 @@
     "dev": "nodemon index.js"
   },
   "dependencies": {
+    "bcryptjs": "^3.0.2",
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "dotenv": "^16.6.1",
     "express": "^4.21.2",
+    "firebase-admin": "^13.5.0",
+    "firestore": "^1.1.6",
+    "nodemailer": "^7.0.6",
     "stream-chat": "^7.2.0"
   },
   "devDependencies": {
